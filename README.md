@@ -6,5 +6,5 @@
 - 🌱 I’m currently learning React.
 - 🌱 I have completed M.Tech from Maulana Azad National Urdu University.
 - 📫 How to reach me: taskeennasim113@gmail.com
-- ⚡ Connect with me https://www.linkedin.com/in/taskeen-nasim/.
+- ⚡ Connect with me https://www.linkedin.com/in/taskeen-nasim-500286422/.
 
